@@ -1,4 +1,4 @@
-Testes Responsivos
+Testes Responsivo
 ==================
 
 Testes com layout responsivo
