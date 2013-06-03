@@ -6,7 +6,7 @@ Testes com layout responsivo
 Configuração
 ------------
 
-Sem nenhuma configuração necessária
+Sem nenhuma configuração necessária. Mas novamente repetindo nenhuma mesmo
 
 Instalação
 ----------
