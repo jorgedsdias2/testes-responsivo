@@ -1,7 +1,7 @@
 Testes Responsivos
 ==================
 
-Testes com layout responsivo
+Testes com layout responsivo. Somente para aprendizagem
 
 Configuração
 ------------
