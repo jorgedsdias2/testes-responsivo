@@ -28,7 +28,7 @@
 						</select>
 					</nav>
 				</div>
-				<div class="float-left">
+				<div class="float-right">
 					<section class="main">
 						<h3>Conteúdo do Site</h3>
 						<p>
